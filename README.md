@@ -18,7 +18,7 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/GY5Olv1_dB4/0.jpg)](https://youtu.be/GY5Olv1_dB4 "Video Title")
 
 ### Official resources of the certificate
-- [ ] [Website of the certificate](https://developers.google.com/certification/associate-android-developer)
+- [x] [Website of the certificate](https://developers.google.com/certification/associate-android-developer)
 - [ ] [Study Guide for all required topics](https://developers.google.com/certification/associate-android-developer/study-guide)
 
 
