@@ -72,8 +72,6 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
      - [x] [ [Udacity Developing Android Apps] Logging](https://youtu.be/i8CELIzOXCs)
 - [x] Debug and fix an application crash (uncaught exception)
    - [x] [[Android Developer Site] Debug your App](https://developer.android.com/studio/debug/index.html)
-- [ ] Debug and fix an issue binding data to views
-    - [ ] [[Android Developer Site] Debug your App](https://developer.android.com/studio/debug/index.html)
 
 #### Application User Interface (UI) and User Experience (UX)
 >Implementation of the visual and navigational components of an application's design. This includes constructing layouts–using both XML and Java code–that consist of the standard framework UI elements as well as custom views. Candidates should have a working knowledge of using view styles and theme attributes to apply a consistent look and feel across an entire application. Understanding of how to include features that expand the application's audience through accessibility and localization may also be required.
