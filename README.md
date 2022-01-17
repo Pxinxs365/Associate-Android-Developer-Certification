@@ -29,7 +29,7 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 - [Associate Android Developer Fast Track][fast_track]
 - [Android Developer Fundamentals](https://developers.google.com/training/courses/android-fundamentals)
 
-### Certification topics
+### Certification topics 
 
 [Diagram version][diagram]
 <img src="https://raw.githubusercontent.com/Amejia481/Associate-Android-Developer-Certification/master/img/android_certification_specs.png" align="center" >
@@ -79,7 +79,7 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 - [ ] [[Fragmented Podcast] Episode 071: UI UX development with GDE Raveesh](http://fragmentedpodcast.com/episodes/71/) 
 
 - [ ] Mock up the main screens and navigation flow of the application
-  - [ ] [[Udacity Course] Developing Android Apps Lesson: Completing the UI - Accessibility](https://www.udacity.com/course/new-android-fundamentals--ud851)
+  - [x] [[Udacity Course] Developing Android Apps Lesson: Completing the UI - Accessibility](https://www.udacity.com/course/new-android-fundamentals--ud851)
   - [ ] [[Udacity Course] Developing Android Apps Lesson: Completing the UI - Polishing the UI](https://www.udacity.com/course/new-android-fundamentals--ud851)
    - [ ] [[Code Labs Android] Using ConstraintLayout to design your views
 ](https://codelabs.developers.google.com/codelabs/constraint-layout/#0)
